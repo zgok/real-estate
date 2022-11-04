@@ -1,0 +1,41 @@
+[
+    {
+        "Id": 1,
+        "SellRent":2,
+        "Name": "Color villa",
+        "Type": "House",
+        "Price": 12000
+    },
+    {
+        "Id": 2,
+        "SellRent":1,
+        "Name": "Grad villa",
+        "Type": "House",
+        "Price": 12000,
+        "Image":"prop-2"
+    },
+    {
+        "Id": 3,
+        "SellRent":1,
+        "Name": "Synthite villa",
+        "Type": "House",
+        "Price": 22000,
+        "Image":"prop3"
+    },
+    {
+        "Id": 4,
+        "SellRent":2,
+        "Name": "Green valley",
+        "Type": "House",
+        "Price": 2500,
+        "Image":"prop4"
+    },
+    {
+        "Id": 5,
+        "SellRent":1,
+        "Name": "Town villa",
+        "Type": "House",
+        "Price": 50000,
+        "Image":"prop5"
+    }
+]
